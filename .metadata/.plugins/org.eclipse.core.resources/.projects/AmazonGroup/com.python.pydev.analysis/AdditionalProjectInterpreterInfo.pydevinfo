@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\GitHub\Eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\AmazonGroup\com.python.pydev.analysis\v2_indexcache
+schedule|1454121583725772000|F:\GitHub\Eclipse\AmazonGroup\schedule.py
+selection|1454023139195000000|F:\GitHub\Eclipse\AmazonGroup\selection.py
+optimization|1454023139089000000|F:\GitHub\Eclipse\AmazonGroup\optimization.py
+Content|1454023154889000000|F:\GitHub\Eclipse\AmazonGroup\Content.py
+SchduleRequest|1453681756349000000|F:\GitHub\Eclipse\AmazonGroup\SchduleRequest.py
+web_ad_schedule|1453676111157000000|F:\GitHub\Eclipse\AmazonGroup\web_ad_schedule.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+5=schedule
+7=Content.__init__
+6=ScheduleRequest
+3=optimization
+1=Content
+2=web_ad_schedule
+4=SchduleRequest
+-- END DICTIONARY
+-- START TREE 1
+4
+con|1|Content!9@
+mai|1|main!18@
+opt|1|optimize!26@
+sch|2|ScheduleRequest!33@schedule!41@
+-- END TREE
+-- START TREE 2
+8
+__i|2|__init__!6&34@__init__!1&10@
+add|1|add_to_dict!5&42@
+che|3|check_size!5&42@check_conflict!5&42@check_location_ID!5&42@
+id|1|id!7&11@
+len|1|length!7&11@
+loc|1|location_schedule_dict!5&43@
+sch|1|schedule_ad!5&42@
+val|1|value!7&11@
+-- END TREE
