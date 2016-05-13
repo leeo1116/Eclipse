@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Group/web_ad_schedule&apos; to &apos;web_ad_schedule.py&apos;" description="Rename resource &apos;web_ad_schedule&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="web_ad_schedule" name="web_ad_schedule.py" stamp="1453670009100" updateReferences="true"/>
-</session>
